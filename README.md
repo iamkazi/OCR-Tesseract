@@ -27,6 +27,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Users\iam_kazi\AppData\Local\Tesser
 <br>
 <br>
 Provide Your Image Folder Path For Source (**It will iterate all images at onces, Do not provide image name**)
+<br>
 listfiles = os.listdir("C:\Data")
 <br>
 <br>
