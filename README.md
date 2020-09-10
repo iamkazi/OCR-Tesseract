@@ -11,7 +11,7 @@ Convert Image To HTML Text Format
 .
 .
 #Setup
-\n For Windows **After installation of the "Tesseract" Add the path of the folder into the Envroinment Variable.**
+For Windows **After installation of the "Tesseract" Add the path of the folder into the Envroinment Variable.**
 .
 .
 **Some changes in the script you have to make**
